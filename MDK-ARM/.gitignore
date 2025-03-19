@@ -1,0 +1,7 @@
+.vscode/
+mc02/
+DebugConfig/
+RTE/
+*.uvguix*
+*.lst
+*.scvd
